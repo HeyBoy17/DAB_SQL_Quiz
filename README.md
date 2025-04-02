@@ -1,2 +1,2 @@
 # DAB_SQL_Quiz
-A website for a SQL Quiz
+A webseite for a quick SQL quiz that contains 20 questions.
